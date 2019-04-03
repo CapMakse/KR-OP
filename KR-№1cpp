@@ -39,8 +39,8 @@ int main() {
 
 	}
 	ofstream output("out.txt");
-	if (bal) output << "Ñêîáêè çáàëàíñèğîâàíûå";
-	else output << "Ñêîáêè íå çáàëàíñèğîâàíûå";
+	if (bal) output << "Ğ¡ĞºĞ¾Ğ±ĞºĞ¸ Ğ·Ğ±Ğ°Ğ»Ğ°Ğ½ÑĞ¸Ñ€Ğ¾Ğ²Ğ°Ğ½Ñ‹Ğµ";
+	else output << "Ğ¡ĞºĞ¾Ğ±ĞºĞ¸ Ğ½Ğµ Ğ·Ğ±Ğ°Ğ»Ğ°Ğ½ÑĞ¸Ñ€Ğ¾Ğ²Ğ°Ğ½Ñ‹Ğµ";
 	system("pause");
 	return 0;
 }
